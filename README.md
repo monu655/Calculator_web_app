@@ -11,3 +11,10 @@ It can perform basic arithmetic operations like addition, subtraction, multiplic
 - Responsive and centered layout
 - No page scrolling
 - Clean and simple UI
+- ## Technologies Used
+- HTML5
+- CSS3 (Flexbox & Grid)
+- JavaScript
+
+## Author
+Monu Gautam
